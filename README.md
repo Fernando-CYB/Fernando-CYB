@@ -9,7 +9,7 @@ Atualmente desenvolvo projetos práticos para fortalecer minha base em lógica, 
 
 ---
 
-###  Tecnologias e Ferramentas
+### 🚀 Tecnologias e Ferramentas
 
 <p align="left">
     <img alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -21,6 +21,30 @@ Atualmente desenvolvo projetos práticos para fortalecer minha base em lógica, 
 
 ---
 
-### Meus Repositórios
+### 📂 Meus Repositórios
 
-- 
+- 🔹 Projetos Java
+- 🔹 Projetos C#
+- 🔹 Estudos Salesforce (em desenvolvimento)
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=Fernando-CYB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+</p>
+
+<p>
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-CYB&theme=tokyonight&layout=compact&langs_count=6" 
+  />
+</p>
+
+---
+
+💡 Sempre aprendendo e evoluindo.
