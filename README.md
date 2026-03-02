@@ -34,7 +34,7 @@ Atualmente desenvolvo projetos práticos para fortalecer minha base em lógica, 
 <p>
   <img 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=Fernando-CYB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      src="https://github-readme-stats.vercel.app/api?username=Fernando-CYB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
 
