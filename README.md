@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👩🏻‍💻 Fernando José
 
-<!--
-**Fernando-CYB/Fernando-CYB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor BackEnd em Formação`**
 
-Here are some ideas to get you started:
+Me chamo Fernando José, sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia.
+Tenho foco em desenvolvimento Backend com Java e C#, além de interesse em CRM e SalesForce.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente desenvolvo projetos práticos para fortalecer minha base em lógica, orientação a obketos e arquitetura de sistemas.
+
+---
+
+###  Tecnologias e Ferramentas
+
+<p align="left">
+    <img alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img alt=".NET" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+    <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</p>
+
+---
+
+### Meus Repositórios
+
+- 
