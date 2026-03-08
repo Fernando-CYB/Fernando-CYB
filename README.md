@@ -29,22 +29,4 @@ Atualmente desenvolvo projetos práticos para fortalecer minha base em lógica, 
 
 ---
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    height="180" 
-      src="https://github-readme-stats.vercel.app/api?username=Fernando-CYB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
-
-<p>
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-CYB&theme=tokyonight&layout=compact&langs_count=6" 
-  />
-</p>
-
----
-
 💡 Sempre aprendendo e evoluindo.
